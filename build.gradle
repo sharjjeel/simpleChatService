@@ -20,6 +20,10 @@ dependencies {
   compile "com.sun.jersey:jersey-server:1.9.1"
   compile "com.sun.jersey:jersey-json:1.9.1"
 
+//  // hibernate
+//  compile "org.hibernate:hibernate-core:5.2.1.Final"
+
+
   // Dependency needed for interceptors and filters.
   compile 'com.sun.jersey.contribs:jersey-contribs:1.19'
 }

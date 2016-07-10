@@ -1,4 +1,4 @@
-package co.dragonfly.jersey_example.services;
+package resources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

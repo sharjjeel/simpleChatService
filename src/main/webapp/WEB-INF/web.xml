@@ -12,7 +12,7 @@
     <!-- Services package configuration. -->
     <init-param>
       <param-name>jersey.config.server.provider.packages</param-name>
-      <param-value>co.dragonfly.jersey_example.services</param-value>
+      <param-value>resources</param-value>
     </init-param>    
   </servlet>
   <servlet-mapping>

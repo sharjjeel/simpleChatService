@@ -1,4 +1,4 @@
-package resources;
+package co.services;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
